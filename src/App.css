@@ -57,6 +57,11 @@ p {
   font-size: 0.8rem;
 }
 
+.success {
+  color: green;
+  font-size: 0.8rem;
+}
+
 input {
   margin-left: 0.5rem;
   padding: 0;
@@ -68,8 +73,8 @@ button {
 }
 
 form {
-  width: 200px;
-  height: 250px;
+  width: 250px;
+  height: 300px;
   padding: 2rem 4rem;
   background-color: white;
 }

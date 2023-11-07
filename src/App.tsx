@@ -1,5 +1,5 @@
-import './App.css';
-import SubscriberForm from './components/SubscriberForm';
+import "./App.css";
+import SubscriberForm from "./components/SubscriberForm";
 
 function App() {
   return (
